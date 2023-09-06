@@ -8,10 +8,7 @@ title = "Nirva Wireless"
 name = "Home"
 url = "#home"
 weight = 1
-[[menu.main]]
-name = "About Us"
-url = "#about"
-weight = 2
+
 [[menu.main]]
 name = "Service"
 url = "#service"
@@ -21,27 +18,16 @@ name = "Research"
 url = "#skills"
 weight = 4
 [[menu.main]]
-name = "Contact"
+name = "Join mailing list"
 url = "#contact"
 weight = 5
 
 # Sitemap Menu
-[[menu.sitemap]]
-name = "Contact Us"
-url = "contact"
-weight = 1
-[[menu.sitemap]]
-name = "Frequently Ask Question"
-url = "#"
-weight = 2
-[[menu.sitemap]]
-name = "Privacy & Policy"
-url = "#"
-weight = 3
+
 [[menu.sitemap]]
 name = "Latest Article"
 url = "#"
-weight = 4
+weight = 1
 
 [params]
 blogPageURL = "blog"
@@ -50,20 +36,4 @@ copyright = "All right reserved copyright © Nirva Wireless 2023"
 footerLogo = "images/contact/widget-logo.png"
 # We're using formspree.io for form handling, paste your formspree url below
 
-googleAnalytics = "G-PCYF8BVR5H"
-logo = "images/site-navigation/logo.png"
 
-[params.address]
-address = "3443 Tahoma Trl, College Station, TX 77845"
-email = "contact@nirvawireless.com"
-
-
-
- 
-
-# Social icons
-
-[[params.social]]
-icon = "fa-linkedin-square"
-url = "https://www.linkedin.com/"
-weight = 1
