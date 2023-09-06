@@ -15,7 +15,7 @@ url = "#service"
 weight = 3
 [[menu.main]]
 name = "blog"
-url = "#skills"
+url = "#blog"
 weight = 4
 
 
