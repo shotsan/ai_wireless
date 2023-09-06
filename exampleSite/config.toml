@@ -10,17 +10,14 @@ url = "#home"
 weight = 1
 
 [[menu.main]]
-name = "Service"
+name = "about"
 url = "#service"
 weight = 3
 [[menu.main]]
-name = "Research"
+name = "blog"
 url = "#skills"
 weight = 4
-[[menu.main]]
-name = "Join mailing list"
-url = "#contact"
-weight = 5
+
 
 # Sitemap Menu
 
@@ -34,6 +31,6 @@ blogPageURL = "blog"
 contactLink = "contact"
 copyright = "All right reserved copyright © AI for Wireless 2023"
 footerLogo = "images/contact/widget-logo.png"
-# We're using formspree.io for form handling, paste your formspree url below
+
 
 
