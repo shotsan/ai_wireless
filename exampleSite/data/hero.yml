@@ -2,10 +2,11 @@
 enable: true
 topTitle: 
 content: >
-  #  Lightning wireless speeds, 100% connected mmWave Networks
+  #  All about applications of AI in wireless
 
-  Our IP handles narrow directional beams of mmWave nodes in both indoors and outdoors. Enjoy a truly optimized network,  
-  mmWave finally delivers its disruptive potential
-buttonName: Contact Us
+  * Weekly guest lectures
+  * Blog posts
+  * Github repos
+buttonName: Join mailing list
 buttonURL: contact
 image: images/hero/about-img1.jpg
